@@ -1,0 +1,27 @@
+Build started at 2020-03-16T07:56:19.513601
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/saurabh/Documents/learn
+Build dir: /home/saurabh/Documents/learn/builddir
+Build type: native build
+Project name: tutorial
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/saurabh/Documents/learn/builddir/meson-private/sanitycheckc.c -o /home/saurabh/Documents/learn/builddir/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/saurabh/Documents/learn/builddir/meson-private/sanitycheckc.exe
+Native C compiler: cc (gcc 7.5.0 "cc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Determining dependency 'gtk+-3.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency gtk+-3.0 found: YES 3.22.30
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja
