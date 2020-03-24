@@ -1,4 +1,4 @@
-//cc test2.c `pkg-config  --cflags --libs glib-2.0` -o noseg
+//cc test1.c `pkg-config  --cflags --libs glib-2.0` -o noseg
 
 
 #include<glib.h>
