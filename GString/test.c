@@ -1,4 +1,6 @@
 #include<glib.h>
+
+int main(){
 GString*
 g_string_new (const gchar *init)
 {
@@ -13,4 +15,5 @@ g_string_new (const gchar *init)
       g_string_append_len (string, init, len);
     }
   return string;
+}
 }
